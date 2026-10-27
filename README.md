@@ -32,7 +32,7 @@ The original uploaded file is removed after processing. Extracted document text,
 Clone the repository and enter the project directory:
 
 ```powershell
-git clone https://github.com/YOUR-NAME/YOUR-REPOSITORY.git
+https://github.com/senthilkumaran0411/Askmyfiles.git
 cd YOUR-REPOSITORY
 ```
 
