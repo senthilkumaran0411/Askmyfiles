@@ -1,0 +1,14 @@
+[project]
+name = "rag-application"
+version = "0.1.0"
+description = "Flask document summarization and Gemini-powered RAG"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.0,<4.0",
+    "google-genai>=1.0,<2.0",
+    "pymupdf>=1.24,<2.0",
+    "python-docx>=1.1,<2.0",
+    "python-dotenv>=1.0,<2.0",
+]
+
